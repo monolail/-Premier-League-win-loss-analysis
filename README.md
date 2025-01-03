@@ -1,1 +1,25 @@
-# premier league 승패 비교 분석
+# premier league 승패 비교 분석 프로젝트
+----------------
+## 프로젝트 소개
+>이 프로젝트는 프리미어리그(영국 축구의 최상위 리그)에 뛰었던 팀들에 대한 성적을 분석한 것이다. 각 팀별 승,무,패의 비율과 골 수를 분석한 것이며 이 프로젝트의 최종 목표는 <U>**데이터를 활용하여 정보를 시각화**</U>하는 것이다.
+
+>또한 이 프로젝트를 통해 프리미어리그 축구팀 중 관심이 있는 사람이 자신이 좋아하는 팀에 대한 시각적인 정보를 얻을 수 있다.
+
+## 진행 과정
+### 1. 주제 선정 이유
+> 프리미어리그 축구팀 중 관심이 가는 팀에 대한 정보를 찾아보고 팀들에 대한 승률 및 팀별 골 수를 알아보고 싶었다.
+
+### 2. 데이터 소개
+> 선정한 데이터 : kaggle에서 [1993~2022까지의 프리미어리그 성적](https://www.kaggle.com/datasets/irkaal/english-premier-league-results?resource=download)을 다운로드 하였다.
+
+> 데이터에서 사용한 내용들
+
+|목록|내용|
+|------|---|
+|Season|Match Season|
+|HomeTeam|Home Team|
+|AwayTeam|Away Team|
+|FTHG|Full Time Home Team Goals|
+|FTAG|Full Time Away Team Goals|
+
+### 3. 데이터 전처리 & 분석 및 시각화
