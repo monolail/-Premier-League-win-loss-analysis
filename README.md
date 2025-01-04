@@ -14,12 +14,20 @@
 
 > 데이터에서 사용한 내용들
 
-|목록|내용|
-|------|---|
-|Season|Match Season|
-|HomeTeam|Home Team|
-|AwayTeam|Away Team|
-|FTHG|Full Time Home Team Goals|
-|FTAG|Full Time Away Team Goals|
+|목록|내용|설명|
+|------|---|---|
+|Season|Match Season|매치 시즌|
+|HomeTeam|Home Team|홈 팀|
+|AwayTeam|Away Team|원정 팀|
+|FTHG|Full Time Home Team Goals|홈 팀 풀타임 골|
+|FTAG|Full Time Away Team Goals|원정 팀 풀타임 골|
 
 ### 3. 데이터 전처리 & 분석 및 시각화
+* 1993~2022년까지 데이터를 1개의 파일로 종합
+* 데이터의 내용에서 필요로하는 내용만을 추출 => Season , HomeTeam , FTHG , FTAG을 통해 팀들의 성적을 분석함.
+* 현황 분석 및 시각화
+  *  1993년부터 2022까지 프리미어리그를 뛰었던 팀 별 승패 여부
+    
+  *  
+
+### 4. 데이터 코드 바로가기
