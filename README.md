@@ -31,11 +31,17 @@
      <img width="313" alt="승부 유무" src="https://github.com/user-attachments/assets/216607e1-e010-4bb4-a126-81406a0c4d2f" />
 
   *  프리미어리그 출범이후 뛰었던 팀들에 대한 데이터 표1(팀별 골 수)
+  *  
      <img width="340" alt="팀별 골 수" src="https://github.com/user-attachments/assets/5058afeb-5d9f-478e-8f87-09d831b0d75c" />
+
   *  프리미어리그 출범이후 뛰었던 팀들에 대한 데이터 표2(팀별 전체 득실)
+
      <img width="334" alt="팀별 전체 득실" src="https://github.com/user-attachments/assets/1f7f2cc8-a394-41c1-85b2-86d9799b23a2" />
+
   *  프리미어리그 출범이후 뛰었던 팀들에 대한 데이터 표3(팀별 승률)
+
      <img width="339" alt="팀별 승률" src="https://github.com/user-attachments/assets/e312c0e9-39a6-4630-bead-db5a42a2e467" />
 
 
 ### 4. 데이터 코드 바로가기
+> [데이터 코드](https://github.com/monolail/-Premier-League-win-loss-analysis/blob/main/Term_Project_7%EC%B0%A8_%EA%B3%84%ED%9A%8D%EC%84%9C_2022105488_%EC%9D%B4%ED%98%B8%EC%A4%80.ipynb)
