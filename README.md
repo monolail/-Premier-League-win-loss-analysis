@@ -45,3 +45,7 @@
 
 ### 4. 데이터 코드 바로가기
 > [데이터 코드](https://github.com/monolail/-Premier-League-win-loss-analysis/blob/main/Term_Project_7%EC%B0%A8_%EA%B3%84%ED%9A%8D%EC%84%9C_2022105488_%EC%9D%B4%ED%98%B8%EC%A4%80.ipynb)
+
+### 5. 프로젝트를 진행한 후 느낀점
+1. 프로젝트를 진행하며 pandas,matplotlib,seaborn 등 파이썬의 다양한 라이브러리를 직접 만져봄으로써 다양한 라이브러리에 대한 지식을 쌓을 수 있었다.
+2. 라이브러리에 대한 지식이 아직 부족하여 상당 부분에서 다른 사람들의 도움 또는 인터넷에서 직접 찾아가며 코드를 작성하였기 때문에 실력적인 부분에서 파이썬을 다루는 것에 아직 미흡하다고 느꼈다.
