@@ -31,7 +31,7 @@
      <img width="313" alt="승부 유무" src="https://github.com/user-attachments/assets/216607e1-e010-4bb4-a126-81406a0c4d2f" />
 
   *  프리미어리그 출범이후 뛰었던 팀들에 대한 데이터 표1(팀별 골 수)
-  *  
+   
      <img width="340" alt="팀별 골 수" src="https://github.com/user-attachments/assets/5058afeb-5d9f-478e-8f87-09d831b0d75c" />
 
   *  프리미어리그 출범이후 뛰었던 팀들에 대한 데이터 표2(팀별 전체 득실)
