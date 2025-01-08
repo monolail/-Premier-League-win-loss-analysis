@@ -36,7 +36,7 @@
 
   *  프리미어리그 출범이후 뛰었던 팀들에 대한 데이터 표2(팀별 전체 득실)
 
-     <img width="334" alt="팀별 전체 득실" src="https://github.com/user-attachments/assets/1f7f2cc8-a394-41c1-85b2-86d9799b23a2" />
+      <img width="334" alt="팀별 전체 득실" src="https://github.com/user-attachments/assets/1f7f2cc8-a394-41c1-85b2-86d9799b23a2" />
 
   *  프리미어리그 출범이후 뛰었던 팀들에 대한 데이터 표3(팀별 승률)
 
